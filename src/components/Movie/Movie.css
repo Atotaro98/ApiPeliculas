@@ -1,0 +1,23 @@
+.movie-detail{
+  width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.span-title{
+  color: blue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.span-info{
+  color: blue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+

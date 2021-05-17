@@ -1,0 +1,35 @@
+.favoritas-titulo{
+    font-size: 32px;
+    border-bottom: 10px double blue;
+}
+
+.centrado{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.remove-favorite{
+	box-shadow:inset 0px 0px 15px 3px red;
+	background:linear-gradient(to bottom, red 5%, #894141 100%);
+	background-color:red;
+	border-radius:17px;
+	border:1px solid #471f1f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px red;
+}
+.remove-favorite:hover {
+	background:linear-gradient(to bottom, #300000 5%, #6e2e2e 100%);
+	background-color:#894141;
+}
+.remove-favorite:active {
+	position:relative;
+	top:1px;
+}
