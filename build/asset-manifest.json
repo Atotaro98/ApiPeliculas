@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12e96ab7.chunk.css",
+    "main.js": "/static/js/main.85f4de31.chunk.js",
+    "main.js.map": "/static/js/main.85f4de31.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cb2b0d7e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cb2b0d7e.js.map",
+    "static/js/2.c70f7a8b.chunk.js": "/static/js/2.c70f7a8b.chunk.js",
+    "static/js/2.c70f7a8b.chunk.js.map": "/static/js/2.c70f7a8b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.12e96ab7.chunk.css.map": "/static/css/main.12e96ab7.chunk.css.map",
+    "static/js/2.c70f7a8b.chunk.js.LICENSE.txt": "/static/js/2.c70f7a8b.chunk.js.LICENSE.txt",
+    "static/media/logoHenry.57a1848e.png": "/static/media/logoHenry.57a1848e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb2b0d7e.js",
+    "static/js/2.c70f7a8b.chunk.js",
+    "static/css/main.12e96ab7.chunk.css",
+    "static/js/main.85f4de31.chunk.js"
+  ]
+}
